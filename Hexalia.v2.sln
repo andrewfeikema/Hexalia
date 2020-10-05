@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexalia.v2", "Hexalia.v2.csproj", "{BF63D246-0121-471A-A7BC-1960E1605CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF63D246-0121-471A-A7BC-1960E1605CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF63D246-0121-471A-A7BC-1960E1605CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF63D246-0121-471A-A7BC-1960E1605CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF63D246-0121-471A-A7BC-1960E1605CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2901AC5F-B818-40DD-8E8A-2C7568454046}
+	EndGlobalSection
+EndGlobal
